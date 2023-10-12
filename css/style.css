@@ -22,12 +22,12 @@ p {
 }
 
 img {
-    float: left;
+    float: right;
 }
 
 h1 {
-    color: orange;
-    font-size: 30px;
+    color: purple;
+    font-size: 70px;
     font-style: italic;
     font-weight: bold;
     text-shadow: 2px 2px 2px black;
